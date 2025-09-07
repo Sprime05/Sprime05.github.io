@@ -343,22 +343,22 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 95%;
+  width: 99%;
 }
 .skills__css {
-  width: 85%;
+  width: 95%;
 }
 .skills__js {
-  width: 75%;
+  width: 85%;
 }
 .skills__ux {
-  width: 5%;
+  width: 50%;
 }
 .skills__react {
   width: 50%;
 }
 .skills__mongodb{
-  width: 1%;
+  width: 50%;
 }
 .skills__php{
   width: 2%;
